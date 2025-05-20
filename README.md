@@ -12,8 +12,8 @@ Um algoritmo genético implementado em C para encontrar caminhos em labirintos. 
 
 ## ✨ Funcionalidades
 
-- **Geração procedural de labirintos** (definidos em `maze.c`)
-- **Algoritmo genético completo** com:
+- **Geração de labirintos** (definidos em `maze.c`)
+- **Algoritmo genético ""completo"" com:
   - Seleção por torneio
   - Crossover de um ponto
   - Mutação aleatória
